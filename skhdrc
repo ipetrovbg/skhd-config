@@ -1,12 +1,22 @@
 cmd + alt - t : open -a 'WezTerm'
+fn - t : open -a 'WezTerm'
 cmd + alt - b : open -a 'Zen Browser'
+fn - b : open -a 'Zen Browser'
 cmd + alt - a : open -a 'Arc'
+fn - a : open -a 'Arc'
 cmd + alt - s : open -a 'Slack'
+fn - s : open -a 'Slack'
 cmd + alt - m : open -a 'Mail'
+fn - m : open -a 'Mail'
 cmd + alt - o : open -a 'Obsidian'
+fn - o : open -a 'Obsidian'
 cmd + alt - f : open -a 'Finder'
+fn - f : open -a 'Finder'
 cmd + alt - p : open -a 'Postman'
+fn - p : open -a 'Postman'
 cmd + shift + alt - t : open -a 'Microsoft Teams'
+fn - t : open -a 'Microsoft Teams'
+shift + fn - s : open -a 'Safari'
 
 cmd + alt - j : yabai -m window --focus south
 cmd + alt - k : yabai -m window --focus north
