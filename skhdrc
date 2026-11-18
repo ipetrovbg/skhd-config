@@ -1,12 +1,19 @@
 cmd + alt - t : open -a 'WezTerm'
 cmd + alt - b : open -a 'Zen Browser'
+cmd + alt - n : open -a Safari
 cmd + alt - a : open -a 'Arc'
 cmd + alt - s : open -a 'Slack'
 cmd + alt - m : open -a 'Mail'
 cmd + alt - o : open -a 'Obsidian'
 cmd + alt - f : open -a 'Finder'
 cmd + alt - p : open -a 'Postman'
+cmd + shift - d : open -a 'Darktable'
+cmd + alt - c : open -a 'Codex'
+cmd + alt - k : open -a 'KeePassXC'
 cmd + shift + alt - t : open -a 'Microsoft Teams'
+cmd + shift + alt - b : defaultbrowser zen
+cmd + shift + alt - n : defaultbrowser safari
+cmd + alt - l : LOOM_DEFAULT_DOCUMENT_MODE=edit open '/Users/petarpetrov/Projects/loom-desktop/loom-desktop/.build/development/Loom Desktop Dev.app'
 
 cmd + alt - j : yabai -m window --focus south
 cmd + alt - k : yabai -m window --focus north
